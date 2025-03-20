@@ -1,0 +1,40 @@
+1. Primer archivo HTML
+Crea un archivo llamado hola.html con la estructura básica y escribe "¡Hola, mundo!"
+como título <h1>.
+2. Títulos diferentes
+Escribe un <h1>, un <h2> y un <h3> con los textos "Primero", "Segundo" y "Tercero".
+3. Párrafo personal
+Escribe un <p> con una oración sobre ti (ejemplo: "Me llamo Ana y tengo 14 años").
+4. Enlace simple
+Crea un enlace que diga "Google" y apunte a https://www.google.com usando <a>.
+5. Imagen de prueba
+Agrega una imagen con <img> usando esta URL: photo-1543466835-00a7907e9de1
+(3000×2250)
+6. Lista de compras
+Haz una lista desordenada (<ul>) con 3 cosas que te gustaría comprar.
+7. Lista de pasos
+Crea una lista ordenada (<ol>) con 3 pasos para hacer algo (ejemplo: "1. Levantarme,
+2. Desayunar, 3. Estudiar").
+8. Texto con formato
+Escribe un <p> con una palabra en negrita (<b>) y otra en cursiva (<i>).
+9. Salto de línea
+Escribe párrafos en un <p> usando <br> para separar las líneas.
+10. Línea divisoria
+Escribe dos <p> y sepáralos con una línea horizontal (<hr>).
+11. Tabla de amigos
+Crea una tabla con <table> con 2 columnas ("Nombre" y "Edad") y 2 filas de datos (usa
+nombres inventados).
+12. Página sobre ti
+Combina un <h1> con tu nombre, un <p> sobre ti y una <ul> con 3 cosas que te
+gustan.
+13. Horario escolar
+Crea una tabla con <table> con 3 columnas ("Hora", "Materia", "Profesor") y 3 filas con
+un horario inventado.
+14. Lista dentro de párrafo
+Escribe un <p> que diga "Mis colores favoritos son:" seguido de una <ul> con 3 colores.
+15. Proyecto final
+Crea una página completa con:
+○ Un <h1> con el título "Mi mundo".
+○ Un <p> presentándote.
+○ Una <ul> con tus hobbies.
+○ Un enlace con <a> a un sitio que te guste.
