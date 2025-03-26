@@ -1,0 +1,13 @@
+15
+Estiliza un <p> con fuente Times New Roman, tamaño 16px y fondo amarillo (yellow).
+15. Tabla decorada
+Añade un borde de 1px solid black a una <table> y haz que las celdas tengan un
+relleno de 5px.
+16. Proyecto final con CSS
+Toma el "Proyecto final" del ejercicio 16 de HTML y aplica:
+a. Fondo del <body>: lightgreen.
+
+b. <h1>: Color azul, centrado, fuente 28px.
+c. <p>: Fuente Georgia, tamaño 18px.
+d. <ul>: Texto en negrita (font-weight: bold) y color marrón (brown).
+e. <img>: Borde punteado (dotted) de 3px negro.

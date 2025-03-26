@@ -1,0 +1,73 @@
+/*Toma el "Proyecto final" del ejercicio 16 de HTML y aplica:
+a. Fondo del <body>: lightgreen.
+
+b. <h1>: Color azul, centrado, fuente 28px.
+c. <p>: Fuente Georgia, tamaño 18px.
+d. <ul>: Texto en negrita (font-weight: bold) y color marrón (brown).
+e. <img>: Borde punteado (dotted) de 3px negro.*/
+
+
+body{
+    background-color: lightgray;
+
+}
+
+h1{
+    color: red;
+    text-align: center;
+    
+}
+
+#p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+p{
+    font-size: 20px;
+    background: lightblue;
+}
+
+h2{
+    font-family: arial;
+}
+
+img{
+    border: 2px solid;
+    border: drotted 3px black;
+}
+
+.resaltar{
+    color: green;
+}
+
+div{
+    margin: 15px;
+}
+
+table{
+    padding: 10px;
+}
+
+img{
+width: 200px;    
+}
+
+#tituloGrande{
+    font-size: 30px;
+}
+
+li{
+    color: purple;
+}
+
+table{
+    border: 1px, solid, black;
+    border-collapse: 5px;
+}
+
+
+ul{
+    font-weight: bold;
+    color: brown;   
+}
